@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/nodejs-sbx:latest
+FROM ghcr.io/eooce/nodejs:main
